@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small APP to do microposts using scaffolding with RoR
 
-Things you may want to cover:
+Things that I learned here:
 
-* Ruby version
+* Basic use to scaffolding
 
-* System dependencies
+* Deploy app in heroku
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database initialization and migrate
