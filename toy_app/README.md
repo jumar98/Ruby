@@ -1,4 +1,4 @@
-# README
+# Micropost APP
 
 This is a small APP to do microposts using scaffolding with RoR
 
